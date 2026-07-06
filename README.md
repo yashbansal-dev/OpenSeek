@@ -22,7 +22,7 @@
 
 ## ✨ Features
 
-- **Chrome Extension Integration**: Right-click on any image while browsing the web and select **"Analyze for Deepfake"** to instantly scan it.
+- **Chrome Extension Integration**: Right-click on any image while browsing the web and select **"Analyze for Deepfake"** to instantly scan it
 - **Adversarial Evasion Defense (Anti-Cloaking)**: A built-in purifier strips away adversarial noise (Glaze, Nightshade) designed to trick AI detectors.
 - **Advanced Machine Learning**: Uses an EfficientNet-based ensemble model and Vision Transformers (ViT) to check spatial logic and invisible PRNU noise.
 - **Biological & Facial Forensics**: Scrutinizes corneal specular highlights (eye reflections) and physiological inconsistencies in generated faces.
