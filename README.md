@@ -45,7 +45,7 @@
 
 1. **User Request**: The user right-clicks an image in the browser and clicks "Analyze for Deepfake".
 2. **Data Extraction**: The Chrome Extension extracts the image data and sends it securely to the local backend.
-3. **Forensic Pipeline**: The backend runs the image through face detectors, spatial frequency analyzers, and an EfficientNet ensemble model.
+3. **Forensic Pipeline**: The backend runs the image through face detectors, spatial frequency analyzers, and an EfficientNet ensemble model
 4. **Scoring**: A final blended confidence score is calculated.
 5. **UI Rendering**: The result (Real vs. AI) is immediately passed back to the extension popup for the user to review.
 
